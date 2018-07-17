@@ -1,1 +1,1 @@
-# fullstackopen-part1
+# Tehtävät 1.1 - 1.14
